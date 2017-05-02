@@ -2,7 +2,7 @@
 
 Basic steps:
 
-I followed the velocity360 chat-room with firebase tutorial, most the of the setup is as shown in the tutorial, accespt the following things:
+I followed the velocity360 tutorial of a chat-room built with firebase, most of the setup is as shown in the tutorial, accept the following things:
 
 * I started with prebuilt 'Node' stack environment in CodeAnywhere
 * Installed Webpack gloabally first.
